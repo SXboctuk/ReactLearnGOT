@@ -1,0 +1,13 @@
+.random-block {
+    background-color:white;
+    padding: 12px;
+}
+.random-block h4 {
+    text-align: center;
+}
+.rounded {
+    border-radius: 16px;
+}
+.term{
+    font-weight:600;
+}

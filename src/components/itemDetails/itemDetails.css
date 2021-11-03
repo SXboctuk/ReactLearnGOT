@@ -1,0 +1,12 @@
+.char-details {
+    background-color:white;
+    padding: 12px;
+}
+.char-details h4 {
+    text-align: center;
+}
+.select-error{
+    font-weight: 500;
+    font-size: 24px;
+    color:white;
+}
